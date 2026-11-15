@@ -1,6 +1,10 @@
-# Trabalhos
+# Trabalhos de IC
+## Tema: Alumínio 
 
-## Capítulo 3 - Alumínio
+
+### Nome: Ricardo Cayoca
+
+## Capítulo 3 - Processo de produção e trasnformação.
 
 - [01 - Descrição do processo de fabrico](capitulo3_aluminio/01_descricao_processo_fabrico.md)
 - [02 - Etapas de transformação](capitulo3_aluminio/02_etapas_transformacao.md)
